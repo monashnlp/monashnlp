@@ -13,7 +13,8 @@ Large language models (LLMs) are challenging to retrain frequently due to the hi
 **Presenters**: [Tongtong Wu](https://wutong8023.site/), [Linhao Luo](https://rmanluo.github.io/), [Trang Vu](https://trangvu.github.io/) and [Reza Haffari](https://rezahaffari.github.io/HomePage/HomePage.html)
 
 
-**Slides**: To be udpated
+**Slides**: [EMNLP2025 version]({{ site.url }}{{ site.baseurl }}/files/monash_emnlp_tutorial_final.pdf)
+
 A previous [version]({{ site.url }}{{ site.baseurl }}/files/CL4LLM.pdf) was presented @ AJCAI 2024
 
 ![]({{ site.url }}{{ site.baseurl }}/images/cl4llm/overview.png){: style="width: 70%; float: center; margin: 0px"}
